@@ -1,4 +1,4 @@
-Laravel log viewer
+Laravel log viewer - https://github.com/rap2hpoutre/laravel-log-viewer
 ==================
 
 [![Packagist](https://img.shields.io/packagist/v/rap2hpoutre/laravel-log-viewer.svg)](https://packagist.org/packages/rap2hpoutre/laravel-log-viewer)
